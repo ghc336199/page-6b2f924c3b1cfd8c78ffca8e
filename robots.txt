@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.ayamqiv.cn/sitemap.xml
